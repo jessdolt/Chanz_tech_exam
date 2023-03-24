@@ -8,5 +8,6 @@
 6. Run php artisan serve
 
 ## APP CONSTRAINTS
-1. Convertable value can not exceed >= 1,000 / one thousand. 
+1. Convertable value can not exceed >= 1,000 || "one thousand". 
 2. Only accepts whole numbers.
+3. Didn't provide a logic for the bonus question.
