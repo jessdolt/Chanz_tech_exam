@@ -9,3 +9,4 @@
 
 ## APP CONSTRAINTS
 1. Convertable value can not exceed >= 1,000 / one thousand. 
+2. Only accepts whole numbers.
