@@ -1,7 +1,9 @@
 ## TO RUN THE APP
 
 Clone the repository
-\n cd Chanz_tech_exam
+
+cd Chanz_tech_exam
+
 Run composer install
 Run npm install
 Run npm run dev
